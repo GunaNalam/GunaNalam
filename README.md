@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Guna Nalam</h1>
 <h3 align="center"> CSE student at VIT Vellore | Web Devolper</h3>
 <br>
-<img align="right" alt="Coding" width="500" src="./Image1.png">
+<img align="right" alt="Coding" width="500" src="./Image1.jpg">
 
 ## 👨🏻‍💻 About Me 
 
