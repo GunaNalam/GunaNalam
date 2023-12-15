@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 About Me 
 
-- 🌱 I’m currently exploring Web Devolpment
+- 🌱 I’m currently exploring Web Development
 
 - Solved 430+ Problems on Leetcode
 
