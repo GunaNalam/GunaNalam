@@ -86,9 +86,9 @@ Here are some ideas to get you started:
 
 ## 💼 Experience 
 
-- **Defence Research and Development Organisation(DRDO)** (August 2023- October 2023)
+- **Defence Research and Development Organisation(DRDO)** (01-August-2023- 31-October 2023)
   - Research Intern (Hyderabad)
-    - Currently working on controlling/adjusting the path length of the laser with respect to the temperature changes.
+    - Worked on controlling/adjusting the path length of the laser with respect to the temperature changes.
     - It is popularly used in navigation in submarines.
 
 <br>
