@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 ## 🚀 Projects 
 
 - **EventWhiz** (October 2022 - November 2022)
-  - [Deployment Link](https://github.com/GunaNalam/EventWhiz_Frontend)
+  - [Deployment Link](https://event-whiz-frontend.vercel.app/)
   - [GitHub Repository](https://github.com/GunaNalam/EventWhiz_Frontend)
   - Tools & Technologies used: HTML, CSS, Bootstrap, ReactJS, NodeJS, ExpressJS, MongoDB, AWS. 
   - Designed and developed the Frontend module for EventWhiz project with HTML, CSS, Bootstrap and ReactJs.
