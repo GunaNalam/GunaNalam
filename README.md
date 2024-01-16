@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering 
-  - CGPA: 9.30
+  - CGPA: 9.32
 
 ## 🌐 Accounts:
 
