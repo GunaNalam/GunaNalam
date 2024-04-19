@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently exploring Web Development
 
-- Solved 465+ Problems on Leetcode
+- Solved 500+ Problems on Leetcode
 
 - 📫 You can reach me at **nalamguna15@gmail.com**
 
