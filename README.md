@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently exploring Web Development
 
-- Solved 625+ Problems on Leetcode
+- Solved 700+ Problems on Leetcode
 
 - 📫 You can reach me at **nalamguna15@gmail.com**
 
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 # 🏆 Achievements:
 
-- 🌟 Solved 400+ problems on Data Structures and Algorithms.
+- 🌟 Solved 700+ problems on Data Structures and Algorithms.
 - 🌟 VIT Academic Merit Scholarship: Received the VIT Academic Merit Scholarship for outstanding academic achievements in 2021-22.
 - 🌟 2 Star Coder on Codechef
 
