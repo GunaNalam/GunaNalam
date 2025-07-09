@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently exploring Web Development
 
-- Solved 700+ Problems on Leetcode
+- Solved 1000+ Problems on Leetcode
 
 - 📫 You can reach me at **nalamguna15@gmail.com**
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering 
-  - CGPA: 9.21*
+  - CGPA: 9.17
 
 ## 🌐 Accounts:
 
