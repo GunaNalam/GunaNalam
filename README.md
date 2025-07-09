@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 # 🏆 Achievements:
 
-- 🌟 Solved 700+ problems on Data Structures and Algorithms.
+- 🌟 Solved 1000+ problems on Data Structures and Algorithms.
 - 🌟 VIT Academic Merit Scholarship: Received the VIT Academic Merit Scholarship for outstanding academic achievements in 2021-22.
 - 🌟 2 Star Coder on Codechef
 
